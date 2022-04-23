@@ -1,0 +1,61 @@
+.header-section{background-color: #101446;padding: 15px 0;}
+.header-section .logo{}
+.header-section .logo a{}
+.header-section .logo img{width: 100px;}
+.header-section .menu{}
+.header-section .menu ul{margin-bottom: 0;text-align: right;}
+.header-section .menu ul li{display: inline-block;margin-left: -4px;}
+.header-section .menu ul li a{color: #fff;text-decoration: none;font-size: 18px;padding: 0 15px;line-height: 62px;}
+img{
+    max-width: 100%;
+}
+
+.banner-section{
+    background:  linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)),  url(./img/intro-bg.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 200px 0;
+}
+
+.banner-section .banner-text{}
+.banner-section .banner-text h2{}
+.banner-section .banner-text p{}
+.banner-section .btn{}
+.banner-section .btn a{text-decoration: none;}
+.banner-section .btn button{background-color: #337ab7;}
+.service-section{background-color: #bac1f3;}
+.service-section h2{font-size: 50px;}
+.service-section .team-box{}
+.service-section .team-box .team-picture{}
+.service-section .team-box .team-picture img{}
+.service-section .team-box .team-content{}
+.service-section .team-box .team-content h3{color: #6a6d78;}
+.service-section .team-box .team-content p{color: #6a6d78;}
+.service-section .team-box .team-content button{background-color: #337ab7;}
+.service-section .team-box .team-content button a{text-decoration: none;}
+.about-section{background-color: #c2d4ea;}
+.about-section h2{font-size: 45px;}
+.about-section .about-picture{}
+.about-section .about-picture img{height: 220px;}
+.about-section ul{list-style: none;margin-top: 50px;}
+.about-section ul li{margin-left: -30px;padding: 5px 0;color: #6a6d78;}
+.about-section p{color: #6a6d78;}
+.about-section .about-content{padding: 25px 0;}
+.about-section .about-content h3{}
+.about-section .about-content p{color: #6a6d78;}
+.about-section .about-content h5{font-size: 28px;color: #6a6d78;}
+.contact-section {
+	background-color: #f5f5f5;
+}
+.button{
+    background-color: #5bc0de;
+    color: #fff;
+}
+label{
+    
+    padding-bottom: 5px;
+    font-weight: bold;
+    color: #3e3839;
+}
+.footer-section p{
+    margin-bottom: 0;
+}
